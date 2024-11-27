@@ -1,1 +1,1 @@
-[![Stats](https://raw.githubusercontent.com/Sitoi/Sitoi/master/github-metrics.svg)](https://github.com/lowlighter/metrics)
+[![Stats](https://raw.githubusercontent.com/adihanifsdr/adihanifsdr/master/github-metrics.svg)](https://github.com/lowlighter/metrics)
